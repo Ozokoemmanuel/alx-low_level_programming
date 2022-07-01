@@ -1,16 +1,9 @@
 #include <stdio.h>
 
 int main(void)
+/*int main is the entry part of the program*/
 {
-/**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-	printf("with proper grammar, but the outcome is a piece of art,");
-	return(0);
-}
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
+         /*return: always 0 (success)*/
+}	

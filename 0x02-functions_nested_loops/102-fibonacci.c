@@ -21,7 +21,7 @@ int main(void)
 			putchar('\n');
 		else
 		{
-			putchar(',');
+			printf(", ");
 
 		}
 	}

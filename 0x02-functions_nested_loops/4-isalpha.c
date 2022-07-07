@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - Entry
- *
+ * _isalpha - checks alphabet.
+ *  @c: character to test.
  * Return: 1 if c is a letter, 0 otherwise
  */
 int _isalpha(int c)

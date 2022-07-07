@@ -2,7 +2,7 @@
 /**
  * main - Entry
  *
- * _lowercase - tests if a character is lowercase from 
+ * _lowercase - tests if a character is lowercase from
  * english alphabets.
  * Return: 1 if it is a lowercase letter, 0 if it is not a lowercase letter.
  */

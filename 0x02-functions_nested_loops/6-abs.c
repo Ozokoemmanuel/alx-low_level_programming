@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main -Entry
- *
+ *  _abs - calculate the absolute value of the number from zero.
+ * @i: the integer to be converted.
  * Return: Always 0
  */
 int _abs(int i)

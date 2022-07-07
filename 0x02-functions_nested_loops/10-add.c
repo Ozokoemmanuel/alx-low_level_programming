@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * main - Entry
- *
- * Retun: Always 0
+ * add - adds two numbers together.
+ * @i: The first number to be added.
+ * @j: The second number to be added.
+ * Return: the sum of two numbers.
  */
 int add(int i, int j)
 {

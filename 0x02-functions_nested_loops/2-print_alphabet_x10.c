@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Entry
+ * print_alphabet_x10 - Prints 10 times the aplhabets
  *
  * Return: Always 0 (Success);
  */

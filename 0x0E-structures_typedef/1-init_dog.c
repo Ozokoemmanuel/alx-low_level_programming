@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "dog.h"
 /**
- * void init_dog - initialize the dog
+ * init_dog - initialize the dog
  * @d: pointer
  * @name: member 1
  * @age: member 2

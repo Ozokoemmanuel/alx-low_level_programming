@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * print_binary - decimal to binary without use / %
  * @n: the decimal
@@ -13,15 +14,15 @@ void print_binary(unsigned long int n)
 
 	mask <<= 63;
 	if (n == 0)
-		_putchar('0');
+		putchar('0');
 
 	while (mask > 0)
 	{
 		if ((n & mask) == 0 && flag == 1)
-			_putchar('0');
+			putchar('0');
 		if ((n & mask) != 0)
 		{
-			_putchar('1');
+			putchar('1');
 			flag = 1;
 		}
 
